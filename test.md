@@ -1,6 +1,6 @@
    # Welcome!
    
-   This is my sample Markdown file.
+   This is my sample Markdown file
 
    ## sous titre
 
